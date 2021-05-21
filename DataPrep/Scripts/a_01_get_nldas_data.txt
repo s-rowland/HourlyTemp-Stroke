@@ -1,0 +1,31 @@
+Description of process to get NLDAS data 
+Overall, you make a list of URLS that will download all of your data. Then you tell the computer to go to those urls and download everything. Then you put it in a long data format that you can save as a csv. 
+Step-by-step Instructions
+0) create an account at https://daac.gsfc.nasa.gov/ 
+You will need the user name and password to download the data
+1) create a folder in the project directory called nldas_YYYY 
+where YYYY = 2014, 2009, etc 
+2) Go to https://daac.gsfc.nasa.gov/
+/// search for "NLDAS_FORA0125_H_002" in the GES DISC data collections search area 
+Make sure you are looking at hourly data
+3) click on "subset/ Get Data" it is a blue text under "NLDAS Primary Forcing Data L4 Hourly 0.125 x 0.125 degree V002 (NLDAS_FORA0125_H.002)"
+4) Choose the dates, area, and variables you want. The area I used for NY was:
+ -80.1, 40.00, -71.8, 45.4
+It is helpful to choose just 2 days at first, to make sure everything is running smoothly. 
+5) Choose the grib data format 
+6) Now click "Download Links List" 
+This will download a plain text file. This plain text file is just a series of url's. 
+Each url is an automatic download. If you pasted that url into your browser, you would just download the grib file for one hour. 
+7) Now put that text file into the nldas_YYYY folder you just made. 
+8) Now its time to open the terminal 
+If you have a Mac for your terminal. For Windows, its pretty different and my instructions do not apply. 
+The terminal is like a way to tell the computer to do stuff via typing, not clicking or using applications. Its parallel to going from phone texting to talking in person- you can't short cut with emojis, you have to say exactly what you think. 
+9) The first thing you do is change your directory to the nldas_YYYY folder. 
+use the command cd, as in cd [directory]    ex: cd ~/Desktop/nldas_2014 
+10) now you tell the computer to go to each of the sites and download the data. 
+use this line in the terminal 
+wget --input-file=nldas_2014.txt  --content-disposition --user=EarthDataUserName --password=EarthDataPassword -nv &>download.log
+
+wget is a special program that automates downloading stuff. Google "download wget" if it is not currently in your computer. 
+11) wait a few hours. Maybe a day. You can check your progress by typing. 
+
