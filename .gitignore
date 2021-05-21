@@ -1,0 +1,31 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+**/*.fst
+DataPrep/Data/Raw_Data/Outcome_Data/*
+DataPrep/Data/Raw_Data/NYS_Census_raw/*
+DataPrep/Data/Raw_Data/NLDAS_raw/*
+DataPrep/Data/Raw_Data/nyc_counties/*
+DataPrep/Data/Raw_Data/Outcome_Data/*
+DataPrep/Data/Intermediate_Data/*
+DataPrep/Data/Final_Data/*
+DataPrep/Scripts/d*
+DataPrep/Scripts/Functions/d*
+HourlyTemp_stroke/Scripts/E*
+HourlyTemp_stroke/Scripts/F*
+HourlyTemp_stroke/Scripts/z*
+HourlyTemp_stroke/Outputs/*
+HourlyTemp_stroke/FakeOutputs_analyst/Models*
+HourlyTemp_stroke/FakeOutputs_analyst/Estimates*
+HourlyTemp_stroke/FakeOutputs_analyst/Tables*
+HourlyTemp_stroke/FakeOutputs_reviewer/Models*
+HourlyTemp_stroke/FakeOutputs_reviewer/Estimates*
+HourlyTemp_stroke/FakeOutputs_reviewer/Tables*
+
+# Getting rid of pesky .DS_Store files
+*.DS_Store
+
+# Ignoring file  (code reviewer) uses to easily search thru repo 
+directory_structures.txt
