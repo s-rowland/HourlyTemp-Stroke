@@ -1,0 +1,73 @@
+Outcome,ERConstraint,LRConstraint,AIC,AkaikeWeight
+Ischemic Stroke,Linear,ns 3 df,19701.63648379075,51.6
+Ischemic Stroke,Linear,ns 4 df,19702.562024376763,32.5
+Ischemic Stroke,Linear,ns 5 df,19704.093058872964,15.1
+Ischemic Stroke,ns 3 df,ns 3 df,19711.019728853822,0.5
+Ischemic Stroke,ns 3 df,ns 4 df,19715.476528580195,0.1
+Ischemic Stroke,ns 3 df,ns 5 df,19719.371553046378,0
+Ischemic Stroke,ns 4 df,ns 3 df,19712.708084661856,0.2
+Ischemic Stroke,ns 4 df,ns 4 df,19719.4337077017,0
+Ischemic Stroke,ns 4 df,ns 5 df,19724.489139791724,0
+Ischemic Stroke,ns 5 df,ns 3 df,19717.04173290011,0
+Ischemic Stroke,ns 5 df,ns 4 df,19725.474972812557,0
+Ischemic Stroke,ns 5 df,ns 5 df,19732.487950528266,0
+Hemorrhagic Stroke,Linear,ns 3 df,9824.636343708882,57.7
+Hemorrhagic Stroke,Linear,ns 4 df,9826.094314657776,27.8
+Hemorrhagic Stroke,Linear,ns 5 df,9828.02251307603,10.6
+Hemorrhagic Stroke,Linear,ns 3 df,19701.63648379075,51.6
+Hemorrhagic Stroke,Linear,ns 4 df,19702.562024376763,32.5
+Hemorrhagic Stroke,Linear,ns 5 df,19704.093058872964,15.1
+Hemorrhagic Stroke,Linear,ns 3 df,9824.636343708882,57.7
+Hemorrhagic Stroke,Linear,ns 4 df,9826.094314657776,27.8
+Hemorrhagic Stroke,Linear,ns 5 df,9828.02251307603,10.6
+Hemorrhagic Stroke,Linear,ns 3 df,19701.63648379075,51.6
+Hemorrhagic Stroke,Linear,ns 4 df,19702.562024376763,32.5
+Hemorrhagic Stroke,Linear,ns 5 df,19704.093058872964,15.1
+Hemorrhagic Stroke,Linear,ns 3 df,9824.636343708882,57.7
+Hemorrhagic Stroke,Linear,ns 4 df,9826.094314657776,27.8
+Hemorrhagic Stroke,Linear,ns 5 df,9828.02251307603,10.6
+Hemorrhagic Stroke,ns 3 df,ns 3 df,9830.573473974318,3
+Hemorrhagic Stroke,ns 3 df,ns 4 df,9833.664472566006,0.6
+Hemorrhagic Stroke,ns 3 df,ns 5 df,9838.703134908685,0.1
+Hemorrhagic Stroke,ns 3 df,ns 3 df,19711.019728853822,0.5
+Hemorrhagic Stroke,ns 3 df,ns 4 df,19715.476528580195,0.1
+Hemorrhagic Stroke,ns 3 df,ns 5 df,19719.371553046378,0
+Hemorrhagic Stroke,ns 3 df,ns 3 df,9830.573473974318,3
+Hemorrhagic Stroke,ns 3 df,ns 4 df,9833.664472566006,0.6
+Hemorrhagic Stroke,ns 3 df,ns 5 df,9838.703134908685,0.1
+Hemorrhagic Stroke,ns 3 df,ns 3 df,19711.019728853822,0.5
+Hemorrhagic Stroke,ns 3 df,ns 4 df,19715.476528580195,0.1
+Hemorrhagic Stroke,ns 3 df,ns 5 df,19719.371553046378,0
+Hemorrhagic Stroke,ns 3 df,ns 3 df,9830.573473974318,3
+Hemorrhagic Stroke,ns 3 df,ns 4 df,9833.664472566006,0.6
+Hemorrhagic Stroke,ns 3 df,ns 5 df,9838.703134908685,0.1
+Hemorrhagic Stroke,ns 4 df,ns 3 df,9836.344113902858,0.2
+Hemorrhagic Stroke,ns 4 df,ns 4 df,9841.372410647764,0
+Hemorrhagic Stroke,ns 4 df,ns 5 df,9846.491709093467,0
+Hemorrhagic Stroke,ns 4 df,ns 3 df,19712.708084661856,0.2
+Hemorrhagic Stroke,ns 4 df,ns 4 df,19719.4337077017,0
+Hemorrhagic Stroke,ns 4 df,ns 5 df,19724.489139791724,0
+Hemorrhagic Stroke,ns 4 df,ns 3 df,9836.344113902858,0.2
+Hemorrhagic Stroke,ns 4 df,ns 4 df,9841.372410647764,0
+Hemorrhagic Stroke,ns 4 df,ns 5 df,9846.491709093467,0
+Hemorrhagic Stroke,ns 4 df,ns 3 df,19712.708084661856,0.2
+Hemorrhagic Stroke,ns 4 df,ns 4 df,19719.4337077017,0
+Hemorrhagic Stroke,ns 4 df,ns 5 df,19724.489139791724,0
+Hemorrhagic Stroke,ns 4 df,ns 3 df,9836.344113902858,0.2
+Hemorrhagic Stroke,ns 4 df,ns 4 df,9841.372410647764,0
+Hemorrhagic Stroke,ns 4 df,ns 5 df,9846.491709093467,0
+Hemorrhagic Stroke,ns 5 df,ns 3 df,9841.638662395164,0
+Hemorrhagic Stroke,ns 5 df,ns 4 df,9848.680976748099,0
+Hemorrhagic Stroke,ns 5 df,ns 5 df,9855.038197741,0
+Hemorrhagic Stroke,ns 5 df,ns 3 df,19717.04173290011,0
+Hemorrhagic Stroke,ns 5 df,ns 4 df,19725.474972812557,0
+Hemorrhagic Stroke,ns 5 df,ns 5 df,19732.487950528266,0
+Hemorrhagic Stroke,ns 5 df,ns 3 df,9841.638662395164,0
+Hemorrhagic Stroke,ns 5 df,ns 4 df,9848.680976748099,0
+Hemorrhagic Stroke,ns 5 df,ns 5 df,9855.038197741,0
+Hemorrhagic Stroke,ns 5 df,ns 3 df,19717.04173290011,0
+Hemorrhagic Stroke,ns 5 df,ns 4 df,19725.474972812557,0
+Hemorrhagic Stroke,ns 5 df,ns 5 df,19732.487950528266,0
+Hemorrhagic Stroke,ns 5 df,ns 3 df,9841.638662395164,0
+Hemorrhagic Stroke,ns 5 df,ns 4 df,9848.680976748099,0
+Hemorrhagic Stroke,ns 5 df,ns 5 df,9855.038197741,0
