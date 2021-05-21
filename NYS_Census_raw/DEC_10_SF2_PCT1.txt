@@ -1,0 +1,9 @@
+PCT1
+TOTAL POPULATION
+
+Universe: Total population
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf2.pdf.Summary File 2 has a population threshold of 100.  Data are available only for the population groups having a population of 100 or more of that specific group within a particular geographic area. 
+
+Source: U.S. Census Bureau, 2010 Census.
+
